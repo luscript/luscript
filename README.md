@@ -5,10 +5,10 @@
 ### Software Engineer · AI-Native Builder · Computer Engineering Student
 
 I build reliable, scalable products across **backend, cloud, and frontend**.  
-My background includes end-to-end work with data modeling, reactive services, microfrontends, AWS integrations, and automated testing. I’m currently especially interested in **AI systems, LLM integration, and agentic workflows** that make software teams more effective.
+My background includes end-to-end work with data modeling, reactive services, microfrontends, AWS integrations, and automated testing. I’m currently especially interested in **AI systems, LLM integrations, and multi-agent development workflows**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucia-vidal-software-engineer)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucividal09@gmail.com)
 
 </div>
 
