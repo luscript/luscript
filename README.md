@@ -1,6 +1,9 @@
 <div align="center">
 
-# Hi, I'm Lucía Vidal 👋
+<img width="1983" height="793" alt="Lucía Vidal_ AI-Native Cloud Engineer" src="https://github.com/user-attachments/assets/4f24d18e-8623-4cba-ac9f-0f3e80bf94b2" />
+
+
+# Hi, I'm Lu 👾
 
 ### Software Engineer · AI-Native Builder · Computer Engineering Student
 
