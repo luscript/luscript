@@ -19,7 +19,7 @@
 
 Most of my current work happens in an **agentic development environment**. I use **agent orchestration and MCPs** to build software, and I propose improvements to the environment as I work with it. The workflow itself has become part of what I build.
 
-On my desk right now: connecting **Meta's WhatsApp API** to a system of my own, and **learning Go**, with a basic working understanding of goroutines, channels, synchronization with `sync`, and pointers. A fair amount of this involves experimenting, reading documentation, and going back to the documentation.
+On my desk right now: connecting **Meta's WhatsApp API** to a system of the company I work for, and **learning Go**, with a basic working understanding of goroutines, channels, synchronization with `sync`, and pointers. A fair amount of this involves experimenting, reading documentation, and going back to the documentation.
 
 <h2>
   <img src="./assets/engineering-divider.gif" alt="The engineering underneath" width="100%" />
